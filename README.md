@@ -34,3 +34,4 @@ This project implements and compares multiple Retrieval-Augmented Generation (RA
 Graph-enhanced approaches show significant accuracy improvements (up to 95%) for technical document QA but require additional computational resources. The optimal architecture depends on specific use case requirements for speed versus comprehensiveness.
 
 For complete implementation code and detailed evaluation metrics, see the accompanying Jupyter notebook and technical report.
+Explain the Project in Persian.(https://drive.google.com/file/d/1yVLUDcJHPg2bDaoItabFHdghGjPuLAmd/view?usp=sharing)
